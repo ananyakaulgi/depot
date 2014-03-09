@@ -21,6 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
+Depot is an Ecommerce Shopping site like Amazon developed using Ruby on Rails with DynamoDB as the backend
 * ...
 
 
