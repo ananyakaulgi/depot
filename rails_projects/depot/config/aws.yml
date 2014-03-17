@@ -1,11 +1,11 @@
 development:
-  access_key_id: AKIAJND7ZUXZCY2GBUGQ
-  secret_access_key: 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
+  access_key_id: 
+  secret_access_key: 
   
 production:
-  access_key_id: AKIAJND7ZUXZCY2GBUGQ
-  secret_access_key: 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
+  access_key_id: 
+  secret_access_key: 
 
 test:
-  access_key_id: AKIAJND7ZUXZCY2GBUGQ
-  secret_access_key: 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
+  access_key_id: 
+  secret_access_key: 
